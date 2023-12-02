@@ -1,0 +1,16 @@
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0-windows\adam_asmaca.exe
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0-windows\adam_asmaca.deps.json
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0-windows\adam_asmaca.runtimeconfig.json
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0-windows\adam_asmaca.dll
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\bin\Debug\net8.0-windows\adam_asmaca.pdb
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.Form1.resources
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.csproj.GenerateResource.cache
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.AssemblyInfoInputs.cache
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.AssemblyInfo.cs
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.csproj.CoreCompileInputs.cache
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.dll
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\refint\adam_asmaca.dll
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.pdb
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\adam_asmaca.genruntimeconfig.cache
+C:\Users\ahayd\source\repos\adam_asmaca\adam_asmaca\obj\Debug\net8.0-windows\ref\adam_asmaca.dll
